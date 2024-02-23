@@ -5,17 +5,8 @@
       "ronaldo",
       "defi"
     ],
-    "timestamp": "2024-02-19T20:37:00.000+00:00",
+    "timestamp": "2024-02-23T00:37:00.000+00:00",
     "tokens": [
-      
-      {
-        "chainId": 686868,
-        "address": "0x6447C92A40B71BDe8843F715436B06719151710E",
-        "name": "Wrapped Bitcoin",
-        "symbol": "WBTC",
-        "decimals": 18,
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
-      },
       {
         "chainId": 686868,
         "address": "0x4BAa19eC97321BcCDa3A720A5F2372C2Bf624e15",
