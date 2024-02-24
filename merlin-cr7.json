@@ -18,8 +18,8 @@
         {
         "chainId": 686868,
         "address": "0x407558729a90C569097b33caaC7A7142427de190",
-        "name": "Wrapped Bitcoin",
-        "symbol": "WBTC",
+        "name": "Wrapped ETH",
+        "symbol": "WETH",
         "decimals": 18,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
       }
