@@ -1,6 +1,6 @@
 {
     "name": "Ronaldo",
-    "logoURI": "https://bafkreifwhvsbn4xrasepcysiwiftzwqo5wy777psfmzmffi7prlhbxe2tm.ipfs.nftstorage.link/",
+    "logoURI": "https://bafkreicswkkhuo6fngkeqv7csdbie534pcqvmcjo2mepyth3x4hbu2aszq.ipfs.nftstorage.link/",
     "keywords": [
       "ronaldo",
       "defi"
@@ -9,11 +9,11 @@
     "tokens": [
       {
         "chainId": 686868,
-        "address": "0x91a2821272770D357442127414FA374Da760F17F",
-        "name": "Ronaldo Junior",
-        "symbol": "CR7",
+        "address": "0x178b7eb2218BD9Bc7eb425D5B45b1D30b90C4F38",
+        "name": "Seerswap",
+        "symbol": "SEER",
         "decimals": 18,
-        "logoURI": "https://bafkreifwhvsbn4xrasepcysiwiftzwqo5wy777psfmzmffi7prlhbxe2tm.ipfs.nftstorage.link/"
+        "logoURI": "https://bafkreicswkkhuo6fngkeqv7csdbie534pcqvmcjo2mepyth3x4hbu2aszq.ipfs.nftstorage.link/"
       },
         {
         "chainId": 686868,
